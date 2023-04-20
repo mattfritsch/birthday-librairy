@@ -1,2 +1,2 @@
 # birthday-librairy
-A side project to my girlfriend's project
+A side project for my girlfriend's birthday
