@@ -1,0 +1,23 @@
+body{
+    height: max-content;
+}
+
+.boyfriend-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+    gap: 10vh;
+    padding: 10%;
+}
+
+p{
+    text-align: justify;
+}
+
+@media screen and (max-width: 991px) {
+    .boyfriend-section{
+        margin-top: 20%;
+    }
+}
