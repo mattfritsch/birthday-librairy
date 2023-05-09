@@ -56,13 +56,13 @@
 
 .card:hover p,
 .card:hover a {
-    opacity: 1;
+    opacity: 80%;
     transition: opacity .5s .1s ease-in;
 }
 
 .card:hover img {
     transition: opacity .3s ease-in;
-    opacity: 1;
+    opacity: 80%;
 }
 
 /* Icon styles */
